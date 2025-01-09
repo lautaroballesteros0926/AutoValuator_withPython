@@ -19,14 +19,13 @@ Se compararon diferentes enfoques:
 
 ## **Estructura de Archivos**  
 - `car_data.csv`: Dataset con información de los vehículos.  
-- `main.ipynb`: Notebook con el desarrollo del modelo.  
+- `notebook.ipynb`: Notebook con el desarrollo del modelo.  
 - `README.md`: Documentación del proyecto.  
 
 ## **Instalación y Ejecución**  
 1. Clona el repositorio:  
    ```bash
-   git clone https://github.com/tuusuario/PrediccionVehicularML.git
-   cd PrediccionVehicularML
+   git clone https://github.com/lautaroballesteros0926/AutoValuator_withPython.git
    ```  
 2. Instala las dependencias:  
    ```bash
@@ -34,7 +33,7 @@ Se compararon diferentes enfoques:
    ```  
 3. Ejecuta el notebook:  
    ```bash
-   jupyter notebook main.ipynb
+   jupyter notebook notebook.ipynb
    ```  
 
 ## **Resultados**  
